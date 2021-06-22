@@ -1,0 +1,35 @@
+body {
+    background-image: url("https://wallpapercave.com/wp/wp2574285.jpg");
+    text-align: center;
+    background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+
+.navbar {
+    background-color: #424242;
+    text-align: center;
+    float: center;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
+
+
+div {
+  opacity: 1  ;
+
+}
+
+h3 {
+    color: ghostwhite;
+}
